@@ -1,3 +1,6 @@
 * Fish config
 
-This is the fish-config for David Janssen. It is entirely a personal config and only published publicly because, when I started, I learned a lot by reading other people's configs. I make no claims of this being a good way to organize things.
+This is the fish-config for David Janssen. It is entirely a personal config and
+only published publicly because, when I started, I learned a lot by reading
+other people's configs. I make no claims of this being a good way to organize
+things.
