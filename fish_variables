@@ -4,7 +4,7 @@ SETUVAR ZO_CMD:zo
 SETUVAR Z_CMD:z
 SETUVAR Z_DATA:/home/david/\x2elocal/share/z/data
 SETUVAR Z_DATA_DIR:/home/david/\x2elocal/share/z
-SETUVAR Z_EXCLUDE:\x5e/mnt/office\x1e/home/david\x24
+SETUVAR Z_EXCLUDE:\x5e/mnt/office\x1e\x5e/home/david\x24
 SETUVAR __fish_init_2_39_8:\x1d
 SETUVAR __fish_init_2_3_0:\x1d
 SETUVAR __fish_init_3_x:\x1d
