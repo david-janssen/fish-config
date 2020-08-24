@@ -19,3 +19,6 @@ for e in $excludes
         set -p Z_EXCLUDE $e
     end
 end
+
+# Source work plugin
+source ~/prj/babbage/util/fish/config.fish
