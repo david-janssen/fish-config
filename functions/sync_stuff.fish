@@ -1,5 +1,5 @@
 # Sync all the important files to the external harddrive
 function sync_stuff
-    rsync ~/dcs ~/mnt/ -avzp --delete
-    rsync ~/prj ~/mnt/ -avzp --delete
+    sudo rsync /home/david/dcs /home/david/mnt/ -avzp
+    sudo rsync /home/david/prj /home/david/mnt/ -avzp
 end
